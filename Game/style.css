@@ -1,0 +1,132 @@
+.header{
+
+    border:  3px solid black;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+body{
+  background-color:	 #ffcce6;
+}
+#rcorners1 {
+    margin-top: 20px;
+    border-radius: 25px;
+    border: 5px solid blueviolet;
+    width: 400px;
+    float: left;
+    margin-left: 20px;
+    height: 550px;
+  }
+
+  #welcenter{
+margin-top: 20px;
+    border:10px solid yellow;
+    padding: 10px;
+    padding-left: 20px;
+
+    background-color: blanchedalmond;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+
+  }
+  #mar{
+
+    background-color:lightgreen;
+    width: 80%;
+    margin-left: 100px;;
+    border: 5px solid black;
+  }
+  .body{
+    
+    margin-left: 190px;
+    
+  }
+  
+  .sets h1{
+    
+    border-top-left-radius:24px ;
+    height: 60px;
+    border-top-right-radius:24px ;
+   background-color: yellow;
+   text-align: center;
+  
+   margin: 0;
+   padding: 5px;
+    
+  }
+#rcorners1:hover {
+
+    background-color: rgb(0, 247, 255);
+}
+.lists{
+    margin-top: 50px;
+   
+}
+li {
+
+    font-family: 	Arial;
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10%;
+    display:flex;
+    justify-content: center;
+    position: absolute;
+    display: inline;
+}
+ul{
+  padding: 12px;
+  margin-left: 100px;
+}
+
+#btn{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+display: flex;
+color: black;
+width: auto;
+position: absolute;
+margin-top: 610px;
+margin-left: 600px;
+}
+
+#r1{
+
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  height: 50px;
+  width: 40px;
+  margin-top: 120px;
+  margin-left: 180px;
+}
+
+#r2{
+
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  height: 50px;
+  width: 40px;
+  margin-top: 150px;
+  margin-left: 190px;
+}
+
+#r3{
+
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  height: 50px;
+  width: 40px;
+  margin-top: 150px;
+  margin-left: 190px;
+}
